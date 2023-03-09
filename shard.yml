@@ -1,0 +1,9 @@
+name: huffman
+version: 0.1.0
+
+authors:
+  - Faustino Aguilar <faustinoaq@gmail.com>
+
+crystal: 1.7.2
+
+license: MIT
