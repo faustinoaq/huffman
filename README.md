@@ -4,7 +4,7 @@ An implementation of Huffman algorithm in Crystal for learning purposes (using 0
 
 To compress real files a new implementation using [BitArray](https://crystal-lang.org/api/latest/BitArray.html) should be required.
 
-A real usecase of Huffman coding is [Zstandard](https://github.com/facebook/zstd) used in kernel compresion
+A real usecase of Huffman coding is [Zstandard](https://github.com/facebook/zstd) and [Huff0](https://github.com/Cyan4973/FiniteStateEntropy) used in kernel compresion
 
 Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression.
 
